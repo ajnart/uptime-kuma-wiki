@@ -1,0 +1,14 @@
+src/unofficial-apps.json
+  h_d6e478ca18e517 113-119
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "1f81f1cd1cb67363ce6f8584193b3a225c1f45a9",
+  "prompts": {},
+  "humans": {
+    "h_d6e478ca18e517": {
+      "author": "Thomas Camlong <thomas@ajnart.fr>"
+    }
+  }
+}
